@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'apps.timeboard',
+    'admin_extra_buttons',
 ]
 
 MIDDLEWARE = [
